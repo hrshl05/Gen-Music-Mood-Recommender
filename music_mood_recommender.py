@@ -40,12 +40,12 @@ def suggest_music():
                 "sad": "https://open.spotify.com/playlist/2ZAvl3Q8VHVQELhb837jvu?si=WAI_-IFCQNeE15HlY88wPw",
                 "angry": "https://open.spotify.com/playlist/0H9abOk1v9LUzp7O6ckbjl?si=Wx80Txh9Q7WIkhWjpz9STQ"
             },
-            "adult": { # Age 25 to 50
+            "adult": { # Age 25 to 40
                 "happy": "https://open.spotify.com/playlist/7CMWUpkKkjlNL3mieglLLp?si=rp2Gxtd3S2Kj8kZjhXP2sw",
                 "sad": "https://open.spotify.com/playlist/4x4S02KeNPo4Uv7jAPvyxi?si=x0POjb1-SGGNnqQ4jmTbmQ",
                 "angry": "https://open.spotify.com/playlist/38KjfUKgPTzJsBwgCqqnOJ?si=AgILvPrgTO-4aaINKHnPpA&pi=Lud64FqyQaKIo"
             },
-            "senior": { # Age > 50
+            "senior": { # Age > 40
                 "happy": "https://open.spotify.com/playlist/02Wsd74kExl1dD4yGJ7ex2?si=Bke07Ez1SSikYV1UfsFCcg",
                 "sad": "https://open.spotify.com/playlist/4fCUR9S3co96HrYivozhC7?si=HUCyTr6ATzCvCz36VRXA_g",
                 "angry": "https://open.spotify.com/playlist/1eRZlHb96lxJk9WtEA2DN3?si=uYpSVoe0T7Ck64aU1yqX7A"
@@ -57,12 +57,12 @@ def suggest_music():
                 "sad": "https://open.spotify.com/playlist/3cWzKTOSy56AsVT7F7YpL4?si=XGfJqVikQHO9YZjB-HuzMw&pi=q9-Wd80PQXmG4",
                 "angry": "https://open.spotify.com/playlist/6crrThibYPte7GVM49OD9S?si=XQ0sTM8MR2i2_4RD53mxqw&pi=KvIfsBHORVmnw"
             },
-            "adult": { # Age 25 to 50
+            "adult": { # Age 25 to 40
                 "happy": "https://open.spotify.com/playlist/6kjx6EztY3cpqFLYmXUBb1?si=hPObgVRjTPePGXxulFTt4g",
                 "sad": "https://open.spotify.com/playlist/7t6LAT93iK9yHG24uckOyJ?si=YFVKxBeXQHOiGN4HVja7Fw",
                 "angry": "https://open.spotify.com/playlist/5necA67xetHmbGxHyVVtiv?si=h5nGWp93QiCfoGwyNoZZIw&pi=HJesZbqbSSi-y"
             },
-            "senior": { # Age > 50
+            "senior": { # Age > 40
                 "happy": "https://open.spotify.com/playlist/0NFTLburHHSZvBoncrgkNb?si=aKrsZBd5QIq0sh9IS177fw&pi=awalInHbSoi5w",
                 "sad": "https://open.spotify.com/playlist/2hC3o5wWcLiKZ5bN7ZqDyy?si=ZdVyAv-MQMCg8GcuTpWu2A&pi=RPsojOqbTD-Id",
                 "angry": "https://open.spotify.com/playlist/0G6HsHpUnsa1jzk7t9wyX0?si=0-MUPfWiQZSq0yJXisNYTA"
